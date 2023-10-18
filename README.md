@@ -1,1 +1,1 @@
-# QTLworkshop
+This tutorial will give a short introduction in linkage mapping and QTL mapping. The tutorial is inspired by the many great r/QTL tutorials available at https://rqtl.org/tutorials/ and developped specifically for this workshop by Thomas Blankers.
